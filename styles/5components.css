@@ -1,0 +1,565 @@
+.component5{
+    width: 1920px;
+    height: 700px;
+    background-color:#222533;
+
+}
+.containerY{
+    width: 630.7px;
+    height: 203.61px;
+    position: absolute;
+}
+.titleY{
+
+    top: 1%;
+    left: 116%;
+   
+    text-align: center;
+    position: relative;
+    padding: 100px;
+}
+
+.titleYtext{
+    height: 50px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    color: #FFFFFF;
+    right: calc(49.56% - 126px);
+    text-align: center;
+    top: 14px;
+    white-space: nowrap;
+    width: 254px;
+    font-size:36px ;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;  
+}
+
+.titleYp{
+    letter-spacing: 0.00px;
+    line-height: 24px;  
+    text-align: center;
+    top: 5px;
+    color: #FFFFFF;
+    left: 10px;
+    margin-right: -240px;
+}
+
+.percentfirst{
+    
+    height: 465px;
+    width: 270px;
+    margin-left: 375px;
+    top: 34%;
+    left: 0%;
+    position: relative;
+}
+
+
+.procentBorder{
+    background-color: transparent;
+    height: 200px;
+    left: 35px;
+    position: absolute;
+    top: 13px;
+    width: calc(100.00% - 70px);
+}
+
+.procentEclipe{
+    background-color: #1ABC9C;
+    border-radius: 100px;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.procneteclipse2{
+    background-color:#FFFFFF;
+    border-radius: 94.03px;
+    height: calc(100.00% - 12px);
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: calc(100.00% - 12px);
+}
+
+.procneteclipse3{
+    background-color: #ECF0F1;
+    border-radius: 52.24px;
+    height: calc(100.00% - 96px);
+    left: 48px;
+    position: absolute;
+    top: 48px;
+    width: calc(100.00% - 96px);
+}
+
+.percentage1{
+    background-color: transparent;
+    bottom: calc(48.61% - 13px);
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    right: calc(49.70% - 18px);
+    text-align: center;
+    white-space: nowrap;
+    width: 36px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300; 
+}
+
+.textphotoshop {
+ 
+    bottom: 0px;
+    height: 240px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}
+.warwera{
+    background-color: transparent;
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    position: absolute;
+    right: calc(49.50% - 47px);
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+    width: 94px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400; 
+    color: #FFFFFF;
+}
+
+.qvedawarwera{
+    background-color: transparent;
+    height: 203px;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+
+    width: calc(100.00% + 2px);
+    color: white;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera1{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera2{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera3{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.percentsecond {
+    bottom: 0px;
+    height: 465px;  
+    width: 270px;
+    top: -33%;
+    left: 35.5%;
+    position: relative;
+}
+
+.percent3 {
+    bottom: 0px;
+    height: 465px;  
+    width: 270px;
+    top: 1%;
+    left: 106%;
+    position: relative;
+}
+
+
+.procneteclipse3k{
+    background-color: #2C3E50;
+    border-radius: 52.24px;
+    height: calc(100.00% - 96px);
+    left: 48px;
+    position: absolute;
+    top: 48px;
+    width: calc(100.00% - 96px);
+}
+
+
+
+.procentEclipek{
+    background-color: #21C2F8;
+    border-radius: 100px;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+
+
+.textphotoshopk {
+ 
+    bottom: 0px;
+    height: 240px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}
+.warwerak{
+    background-color: transparent;
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    position: absolute;
+    right: calc(49.50% - 47px);
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+    width: 94px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400; 
+    color: #FFFFFF;
+}
+
+.qvedawarwerak{
+    background-color: transparent;
+    height: 203px;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    width: calc(100.00% + 2px);
+    color: white;
+
+}
+
+.qvedawarwera1k{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera2k{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera3k{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+.percent3{
+    
+    height: 465px;
+    width: 270px;
+    margin-left: 375px;
+    top: -1%;
+    left: -25%;
+    position: relative;
+}
+
+
+.procentBorderm{
+    background-color: transparent;
+    height: 200px;
+    left: 35px;
+    position: absolute;
+    top: 13px;
+    width: calc(100.00% - 70px);
+}
+
+.procentEclipem{
+    background-color: #1ABC9C;
+    border-radius: 100px;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.procneteclipse2m{
+    background-color:#FFFFFF;
+    border-radius: 94.03px;
+    height: calc(100.00% - 12px);
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: calc(100.00% - 12px);
+}
+
+.procneteclipse3m{
+    background-color: #ECF0F1;
+    border-radius: 52.24px;
+    height: calc(100.00% - 96px);
+    left: 48px;
+    position: absolute;
+    top: 48px;
+    width: calc(100.00% - 96px);
+}
+
+.percentage1m{
+    background-color: transparent;
+    bottom: calc(48.61% - 13px);
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    right: calc(49.70% - 18px);
+    text-align: center;
+    white-space: nowrap;
+    width: 36px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300; 
+}
+
+.textphotoshopm {
+ 
+    bottom: 0px;
+    height: 240px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}
+.warweram{
+    background-color: transparent;
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    position: absolute;
+    right: calc(49.50% - 47px);
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+    width: 94px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400; 
+    color: #FFFFFF;
+}
+
+.qvedawarweram{
+    background-color: transparent;
+    height: 203px;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+
+    width: calc(100.00% + 2px);
+    color: white;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera1m{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera2m{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera3m{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+.percentfirstj{
+    
+    height: 465px;
+    width: 270px;
+    margin-left: 375px;
+    top: -100%;
+    left: 100%;
+    position: relative;
+}
+
+
+.procentBorderj{
+    background-color: transparent;
+    height: 200px;
+    left: 35px;
+    position: absolute;
+    top: 13px;
+    width: calc(100.00% - 70px);
+}
+
+.procentEclipej{
+    background-color: #1ABC9C;
+    border-radius: 100px;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.procneteclipse2j{
+    background-color:#FFFFFF;
+    border-radius: 94.03px;
+    height: calc(100.00% - 12px);
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: calc(100.00% - 12px);
+}
+
+.procneteclipse3j{
+    background-color: #ECF0F1;
+    border-radius: 52.24px;
+    height: calc(100.00% - 96px);
+    left: 48px;
+    position: absolute;
+    top: 48px;
+    width: calc(100.00% - 96px);
+}
+
+.percentage1j{
+    background-color: transparent;
+    bottom: calc(48.61% - 13px);
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    right: calc(49.70% - 18px);
+    text-align: center;
+    white-space: nowrap;
+    width: 36px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300; 
+}
+
+.textphotoshopj{
+ 
+    bottom: 0px;
+    height: 240px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}
+.warweraj{
+    background-color: transparent;
+    height: 26px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    position: absolute;
+    right: calc(49.50% - 47px);
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+    width: 94px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400; 
+    color: #FFFFFF;
+}
+
+.qvedawarweraj{
+    background-color: transparent;
+    height: 203px;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+
+    width: calc(100.00% + 2px);
+    color: white;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera1j{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera2j{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.qvedawarwera3j{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
