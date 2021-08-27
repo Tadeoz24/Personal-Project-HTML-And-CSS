@@ -8,21 +8,27 @@
   padding-left: 19px;
   margin-bottom: 24px;
 }
+
 .component6 .inner-1 {
   margin-bottom: 44px;
 }
+
 .component6 .inner-1 p {
   padding-left: 18px;
 }
+
 .component6 .box-1 h6 {
   padding-left: 3px;
 }
+
 .component6 .box-2 h6 {
   padding-left: 9px;
 }
+
 .component6 .box-3 h6 {
   padding-left: 10px;
 }
+
 .component6 .box-4 h6 {
   padding-left: 17px;
 }
@@ -37,6 +43,7 @@
   position: relative;
   transition: all 0.2s ease-out;
 }
+
 .component6 .box img {
   position: absolute;
   top: 15.5%;
@@ -50,6 +57,7 @@
 .component6 .box-2 p {
   padding-left: 7px;
 }
+
 .component6 .box-3 p {
   padding-left: 11px;
 }
@@ -65,6 +73,7 @@
     height: unset;
     padding: 60px;
   }
+
   .component6 h5,
   .component6 .inner-1 p {
     padding-left: unset;
@@ -74,20 +83,24 @@
     padding-left: unset;
     height: unset;
   }
+
   .component6 .box img {
     position: absolute;
     top: 15.5%;
     left: 46.5%;
   }
+
   .component6 .box img {
     position: absolute;
     top: 15.5%;
     left: 50%;
     transform: translateX(-50%);
   }
+
   .component6 .box-4 h6 {
     padding-left: unset;
   }
+
   .component6 .box {
     padding: 146px 10px 8px;
   }
@@ -97,6 +110,7 @@
   .component6 .inner-2 {
     flex-wrap: wrap;
   }
+
   .component6 .inner-2 .box {
     flex-basis: 50%;
   }
@@ -106,9 +120,11 @@
   .component6 .inner-2 {
     flex-direction: column;
   }
+
   .component6 h5 {
     line-height: unset;
   }
+
   .component6 {
     padding: 59px 27px;
   }

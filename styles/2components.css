@@ -1,13 +1,13 @@
-.component2{
+.component2 {
     width: 100%;
     height: 90px;
     background-color: #FFFFFF;
     position: relative;
-  
+
 
 }
 
-.foxlogo{
+.foxlogo {
     position: absolute;
     height: 48.5px;
     left: 19.7%;
@@ -17,7 +17,7 @@
 
 }
 
-.component2 img{
+.component2 img {
     height: calc(100.00%-4px);
     left: 0px;
     object-fit: cover;
@@ -28,17 +28,18 @@
 
 
 
-.component2 span{
+.component2 span {
     font-family: 'Lato', sans-serif;
-    font-weight: 900;  
-    display:inline-block;
-}
-.component2 span:nth-child(1){
-    font-style: normal;
-    font-weight: 400; 
+    font-weight: 900;
+    display: inline-block;
 }
 
-.capture1{
+.component2 span:nth-child(1) {
+    font-style: normal;
+    font-weight: 400;
+}
+
+.capture1 {
     color: #34495E;
     font-family: 'Lato', sans-serif;
     font-size: 35.69px;
@@ -53,16 +54,16 @@
     width: 101px;
 }
 
-.navigacia{
+.navigacia {
     height: 20px;
     position: absolute;
     right: 14.5%;
     top: 39%;
     width: 938px;
 }
+
 .component2 p {
     color: #A1B1BC;
     font-family: 'Lato', sans-serif;
     font-size: 15px;
 }
-

@@ -1,25 +1,27 @@
-.component5{
+.component5 {
     width: 1920px;
     height: 700px;
-    background-color:#222533;
+    background-color: #222533;
 
 }
-.containerY{
+
+.containerY {
     width: 630.7px;
     height: 203.61px;
     position: absolute;
 }
-.titleY{
+
+.titleY {
 
     top: 1%;
     left: 116%;
-   
+
     text-align: center;
     position: relative;
     padding: 100px;
 }
 
-.titleYtext{
+.titleYtext {
     height: 50px;
     letter-spacing: 0.00px;
     line-height: 20px;
@@ -29,14 +31,14 @@
     top: 14px;
     white-space: nowrap;
     width: 254px;
-    font-size:36px ;
+    font-size: 36px;
     font-family: 'Lato', sans-serif;
-    font-weight: 300;  
+    font-weight: 300;
 }
 
-.titleYp{
+.titleYp {
     letter-spacing: 0.00px;
-    line-height: 24px;  
+    line-height: 24px;
     text-align: center;
     top: 5px;
     color: #FFFFFF;
@@ -44,8 +46,8 @@
     margin-right: -240px;
 }
 
-.percentfirst{
-    
+.percentfirst {
+
     height: 465px;
     width: 270px;
     margin-left: 375px;
@@ -55,7 +57,7 @@
 }
 
 
-.procentBorder{
+.procentBorder {
     background-color: transparent;
     height: 200px;
     left: 35px;
@@ -64,7 +66,7 @@
     width: calc(100.00% - 70px);
 }
 
-.procentEclipe{
+.procentEclipe {
     background-color: #1ABC9C;
     border-radius: 100px;
     height: 100%;
@@ -74,8 +76,8 @@
     width: 100%;
 }
 
-.procneteclipse2{
-    background-color:#FFFFFF;
+.procneteclipse2 {
+    background-color: #FFFFFF;
     border-radius: 94.03px;
     height: calc(100.00% - 12px);
     left: 6px;
@@ -84,7 +86,7 @@
     width: calc(100.00% - 12px);
 }
 
-.procneteclipse3{
+.procneteclipse3 {
     background-color: #ECF0F1;
     border-radius: 52.24px;
     height: calc(100.00% - 96px);
@@ -94,7 +96,7 @@
     width: calc(100.00% - 96px);
 }
 
-.percentage1{
+.percentage1 {
     background-color: transparent;
     bottom: calc(48.61% - 13px);
     height: 26px;
@@ -107,18 +109,19 @@
     width: 36px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
 }
 
 .textphotoshop {
- 
+
     bottom: 0px;
     height: 240px;
     left: 0px;
     position: absolute;
     width: 100%;
 }
-.warwera{
+
+.warwera {
     background-color: transparent;
     height: 26px;
     letter-spacing: 0.00px;
@@ -131,11 +134,11 @@
     width: 94px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 400; 
+    font-weight: 400;
     color: #FFFFFF;
 }
 
-.qvedawarwera{
+.qvedawarwera {
     background-color: transparent;
     height: 203px;
     left: 0px;
@@ -154,7 +157,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera1{
+.qvedawarwera1 {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -162,7 +165,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera2{
+.qvedawarwera2 {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -170,7 +173,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera3{
+.qvedawarwera3 {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -180,7 +183,7 @@
 
 .percentsecond {
     bottom: 0px;
-    height: 465px;  
+    height: 465px;
     width: 270px;
     top: -33%;
     left: 35.5%;
@@ -189,7 +192,7 @@
 
 .percent3 {
     bottom: 0px;
-    height: 465px;  
+    height: 465px;
     width: 270px;
     top: 1%;
     left: 106%;
@@ -197,7 +200,7 @@
 }
 
 
-.procneteclipse3k{
+.procneteclipse3k {
     background-color: #2C3E50;
     border-radius: 52.24px;
     height: calc(100.00% - 96px);
@@ -209,7 +212,7 @@
 
 
 
-.procentEclipek{
+.procentEclipek {
     background-color: #21C2F8;
     border-radius: 100px;
     height: 100%;
@@ -222,14 +225,15 @@
 
 
 .textphotoshopk {
- 
+
     bottom: 0px;
     height: 240px;
     left: 0px;
     position: absolute;
     width: 100%;
 }
-.warwerak{
+
+.warwerak {
     background-color: transparent;
     height: 26px;
     letter-spacing: 0.00px;
@@ -242,11 +246,11 @@
     width: 94px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 400; 
+    font-weight: 400;
     color: #FFFFFF;
 }
 
-.qvedawarwerak{
+.qvedawarwerak {
     background-color: transparent;
     height: 203px;
     left: 0px;
@@ -260,7 +264,7 @@
 
 }
 
-.qvedawarwera1k{
+.qvedawarwera1k {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -268,7 +272,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera2k{
+.qvedawarwera2k {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -276,7 +280,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera3k{
+.qvedawarwera3k {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -290,8 +294,8 @@
 
 
 
-.percent3{
-    
+.percent3 {
+
     height: 465px;
     width: 270px;
     margin-left: 375px;
@@ -301,7 +305,7 @@
 }
 
 
-.procentBorderm{
+.procentBorderm {
     background-color: transparent;
     height: 200px;
     left: 35px;
@@ -310,7 +314,7 @@
     width: calc(100.00% - 70px);
 }
 
-.procentEclipem{
+.procentEclipem {
     background-color: #1ABC9C;
     border-radius: 100px;
     height: 100%;
@@ -320,8 +324,8 @@
     width: 100%;
 }
 
-.procneteclipse2m{
-    background-color:#FFFFFF;
+.procneteclipse2m {
+    background-color: #FFFFFF;
     border-radius: 94.03px;
     height: calc(100.00% - 12px);
     left: 6px;
@@ -330,7 +334,7 @@
     width: calc(100.00% - 12px);
 }
 
-.procneteclipse3m{
+.procneteclipse3m {
     background-color: #ECF0F1;
     border-radius: 52.24px;
     height: calc(100.00% - 96px);
@@ -340,7 +344,7 @@
     width: calc(100.00% - 96px);
 }
 
-.percentage1m{
+.percentage1m {
     background-color: transparent;
     bottom: calc(48.61% - 13px);
     height: 26px;
@@ -353,18 +357,19 @@
     width: 36px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
 }
 
 .textphotoshopm {
- 
+
     bottom: 0px;
     height: 240px;
     left: 0px;
     position: absolute;
     width: 100%;
 }
-.warweram{
+
+.warweram {
     background-color: transparent;
     height: 26px;
     letter-spacing: 0.00px;
@@ -377,11 +382,11 @@
     width: 94px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 400; 
+    font-weight: 400;
     color: #FFFFFF;
 }
 
-.qvedawarweram{
+.qvedawarweram {
     background-color: transparent;
     height: 203px;
     left: 0px;
@@ -400,7 +405,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera1m{
+.qvedawarwera1m {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -408,7 +413,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera2m{
+.qvedawarwera2m {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -416,7 +421,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera3m{
+.qvedawarwera3m {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -430,8 +435,8 @@
 
 
 
-.percentfirstj{
-    
+.percentfirstj {
+
     height: 465px;
     width: 270px;
     margin-left: 375px;
@@ -441,7 +446,7 @@
 }
 
 
-.procentBorderj{
+.procentBorderj {
     background-color: transparent;
     height: 200px;
     left: 35px;
@@ -450,7 +455,7 @@
     width: calc(100.00% - 70px);
 }
 
-.procentEclipej{
+.procentEclipej {
     background-color: #1ABC9C;
     border-radius: 100px;
     height: 100%;
@@ -460,8 +465,8 @@
     width: 100%;
 }
 
-.procneteclipse2j{
-    background-color:#FFFFFF;
+.procneteclipse2j {
+    background-color: #FFFFFF;
     border-radius: 94.03px;
     height: calc(100.00% - 12px);
     left: 6px;
@@ -470,7 +475,7 @@
     width: calc(100.00% - 12px);
 }
 
-.procneteclipse3j{
+.procneteclipse3j {
     background-color: #ECF0F1;
     border-radius: 52.24px;
     height: calc(100.00% - 96px);
@@ -480,7 +485,7 @@
     width: calc(100.00% - 96px);
 }
 
-.percentage1j{
+.percentage1j {
     background-color: transparent;
     bottom: calc(48.61% - 13px);
     height: 26px;
@@ -493,18 +498,19 @@
     width: 36px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
 }
 
-.textphotoshopj{
- 
+.textphotoshopj {
+
     bottom: 0px;
     height: 240px;
     left: 0px;
     position: absolute;
     width: 100%;
 }
-.warweraj{
+
+.warweraj {
     background-color: transparent;
     height: 26px;
     letter-spacing: 0.00px;
@@ -517,11 +523,11 @@
     width: 94px;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
-    font-weight: 400; 
+    font-weight: 400;
     color: #FFFFFF;
 }
 
-.qvedawarweraj{
+.qvedawarweraj {
     background-color: transparent;
     height: 203px;
     left: 0px;
@@ -540,7 +546,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera1j{
+.qvedawarwera1j {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -548,7 +554,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera2j{
+.qvedawarwera2j {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -556,7 +562,7 @@
     font-weight: 400;
 }
 
-.qvedawarwera3j{
+.qvedawarwera3j {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 14px;

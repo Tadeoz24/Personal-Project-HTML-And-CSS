@@ -4,32 +4,39 @@
   padding-top: 103px;
   box-shadow: inset 0 -3px 0 0 rgba(0, 0, 0, 0.1);
 }
+
 .component-10 .box {
   width: 293px;
   height: 475px;
   color: #686d80;
   background-color: var(--light-grey-secondary);
 }
+
 .component-10 .box-header {
   padding-top: 22.5px;
 }
+
 .component-10 .box-header span {
   position: absolute;
   right: 42%;
   bottom: 17%;
 }
+
 .component-10 .box-header div:first-child {
   padding-bottom: 21.4px;
 }
+
 .component-10 .box-header div:nth-child(2) {
   padding-bottom: 24px;
   padding-top: 6px;
   padding-right: 1px;
   position: relative;
 }
-.component-10 .box > div {
+
+.component-10 .box>div {
   border: 0.5px solid white;
 }
+
 .component-10 button {
   width: 120px;
   height: 32px;
@@ -43,6 +50,7 @@
 .component-10 .box-footer {
   flex-grow: 1;
 }
+
 .component-10 .box-1 .box-header {
   height: 152px;
   background-color: var(--light-grey-secondary);
@@ -51,6 +59,7 @@
 .component-10 .box-1 .box-header {
   padding-top: 3px;
 }
+
 .component-10 .box:not(:first-child) {
   transition: all 0.2s ease-out;
 }
@@ -67,6 +76,7 @@
 .component-10 h5 {
   margin-bottom: 16px;
 }
+
 .component-10 .container {
   padding-left: 16px;
   padding-top: 2px;
@@ -83,10 +93,12 @@
   padding-right: 49px;
   position: relative;
 }
+
 .component-10 .inner-3 button {
   width: 176px;
   height: 50px;
 }
+
 .component-10 .inner-3::after {
   content: "";
   position: absolute;
@@ -102,9 +114,11 @@
     height: unset;
     padding-bottom: 40px;
   }
+
   .component-10 .container {
     padding-left: unset;
   }
+
   .component-10 .inner-3 {
     width: 90%;
     height: unset;
@@ -113,12 +127,14 @@
 }
 
 @media only screen and (max-width: 1024px) {
+
   /* .component-10 .container {
         padding-left: unset;
       } */
   .component-10 .inner-2 {
     flex-wrap: wrap;
   }
+
   .component-10 .box {
     flex-basis: 34%;
   }
@@ -128,6 +144,7 @@
   .component-10 .inner-2 {
     flex-wrap: wrap;
   }
+
   .component-10 .box {
     flex-basis: 34%;
   }
@@ -135,38 +152,49 @@
   .component-10 .box {
     flex-basis: 66%;
   }
+
   .component-10 .inner-2 {
     gap: 20px;
   }
+
   .component-10 h5 {
     font-size: 17px;
     line-height: unset;
   }
+
   .component-10 button span {
     font-size: 16px;
   }
+
   .component-10 .inner-3 p {
     font-size: 13px;
   }
+
   .component-10 .inner-3 button {
     width: 134px;
   }
+
   .component-10 .inner-3 {
     flex-wrap: wrap;
     gap: 15px;
   }
+
   .component-10 {
     padding-top: 25px;
   }
-  .component-9 .box > div {
+
+  .component-9 .box>div {
     height: unset;
   }
+
   .component-10 .inner-1 {
     margin-bottom: 40px;
   }
+
   .component-10 .box {
     flex-basis: 88%;
   }
+
   .component-12 .inner-2 {
     gap: 91px;
   }

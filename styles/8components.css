@@ -3,10 +3,12 @@
   background-color: var(--light-grey-color);
   padding-top: 138px;
 }
+
 .component8 .container {
   align-items: center;
   text-align: center;
 }
+
 .component8 .inner-1 {
   padding-left: 18px;
   margin-bottom: 62px;
@@ -15,6 +17,7 @@
 .component8 h5 {
   margin-bottom: 24px;
 }
+
 .component8 .inner-2 {
   background-color: #fff;
   width: 1170px;
@@ -22,9 +25,11 @@
   margin-left: 18px;
   margin-bottom: 35px;
 }
+
 .component8 .inner-3 {
   margin-left: 20px;
 }
+
 .component8 .inner-3 div {
   width: 112px;
   height: 112px;
@@ -33,6 +38,7 @@
   box-shadow: 0 11px 7px -10px #00000017;
   margin-bottom: 16px;
 }
+
 .component8 .inner-4 {
   margin-top: 37px;
   margin-left: 27px;
@@ -42,27 +48,33 @@
   .component8 .inner-1 {
     padding-left: unset;
   }
+
   .component8 .inner-2 {
     width: unset;
   }
+
   .component8 .inner-3 {
     margin-left: 20px;
   }
 }
+
 @media only screen and (max-width: 1024px) {
   .component8 .inner-2 {
     width: 80%;
     margin-left: unset;
     padding: 30px;
   }
+
   .component8 .inner-3,
   .component8 .inner-4 {
     margin-left: unset;
   }
+
   .component8 p {
     font-size: 16px;
   }
-  .component8 .inner-3 > div:nth-child(1) {
+
+  .component8 .inner-3>div:nth-child(1) {
     margin: 0 auto;
   }
 }
@@ -72,16 +84,20 @@
     font-size: 10px;
     line-height: 19px;
   }
+
   .component8 h5 {
     line-height: unset;
   }
+
   .component8 .inner-4 {
     margin-top: unset;
     margin-left: unset;
   }
+
   .component8 .inner-3 {
     margin-left: unset;
   }
+
   .component8 {
     height: unset;
     padding: 32px 10px;

@@ -7,6 +7,7 @@
   --light-grey-secondary: #eaebec;
   --main-green-color: #1abc9c;
 }
+
 .position-cenering {
   position: absolute;
   top: 50%;
@@ -17,14 +18,17 @@
 .flex {
   display: flex;
 }
+
 .flex-centering {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 .space-between {
   justify-content: space-between;
 }
+
 .flex-column {
   flex-direction: column;
 }
@@ -49,9 +53,11 @@
 .font-14 {
   font-size: 14px;
 }
+
 .font-15 {
   font-size: 15px;
 }
+
 .font-16 {
   font-size: 16px;
 }
@@ -59,9 +65,11 @@
 .font-18 {
   font-size: 18px;
 }
+
 .font-24 {
   font-size: 24px;
 }
+
 .font-30 {
   font-size: 30px;
 }
@@ -73,6 +81,7 @@
 .font-48 {
   font-size: 48px;
 }
+
 .font-60 {
   font-size: 60px;
 }
@@ -82,18 +91,23 @@
 .background-green {
   background-color: var(--main-green-color);
 }
+
 .color-green {
   color: var(--main-green-color);
 }
+
 .color-secondary-grey {
   color: var(--dark-grey-secondary);
 }
+
 .color-medium-grey {
   color: var(--medium-grey-color);
 }
+
 .background-medium-grey {
   background-color: var(--medium-grey-color);
 }
+
 .background-light-grey {
   background-color: var(--light-grey-color);
 }
@@ -101,18 +115,23 @@
 .background-medium-secondary {
   background-color: var(--medium-grey-secondary);
 }
+
 .color-light-grey {
   color: var(--light-grey-color);
 }
+
 .color-white {
   color: #fff;
 }
+
 .green-table {
   color: #7bc200;
 }
+
 .red-table {
   color: #ef584d;
 }
+
 .background-gradient {
   background: linear-gradient(45deg, #1dd1ad, #45d0ff);
 }
@@ -122,9 +141,11 @@
 .line-height-19 {
   line-height: 19px;
 }
+
 .line-height-20 {
   line-height: 20px;
 }
+
 .line-height-21 {
   line-height: 21px;
 }
@@ -132,9 +153,11 @@
 .line-height-24 {
   line-height: 24px;
 }
+
 .line-height-27 {
   line-height: 27px;
 }
+
 .line-height-30 {
   line-height: 30px;
 }
@@ -142,6 +165,7 @@
 .line-height-36 {
   line-height: 36px;
 }
+
 .line-height-40 {
   line-height: 40px;
 }
