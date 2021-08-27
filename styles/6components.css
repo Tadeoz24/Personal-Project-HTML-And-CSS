@@ -1,138 +1,115 @@
-.component6{
-    background-color: white;
-    height: 534px;
-    width: 1920px;
-    position: relative;
+.component6 {
+  height: 540px;
+  text-align: center;
+  padding-top: 104px;
 }
 
-.ourservices{
-    background-color: transparent;
-    height: 145px;
-    top: 50px;
-    left: 640px;
-    width: 631px; 
+.component6 h5 {
+  padding-left: 19px;
+  margin-bottom: 24px;
+}
+.component6 .inner-1 {
+  margin-bottom: 44px;
+}
+.component6 .inner-1 p {
+  padding-left: 18px;
+}
+.component6 .box-1 h6 {
+  padding-left: 3px;
+}
+.component6 .box-2 h6 {
+  padding-left: 9px;
+}
+.component6 .box-3 h6 {
+  padding-left: 10px;
+}
+.component6 .box-4 h6 {
+  padding-left: 17px;
+}
+
+.component6 .box {
+  justify-content: flex-start;
+  flex-grow: 1;
+  border: 1px solid #ecf0f1;
+  padding-top: 146px;
+  padding-left: 9px;
+  height: 301px;
+  position: relative;
+  transition: all 0.2s ease-out;
+}
+.component6 .box img {
+  position: absolute;
+  top: 15.5%;
+  left: 46.5%;
+}
+
+.component6 .box h6 {
+  margin-bottom: 14px;
+}
+
+.component6 .box-2 p {
+  padding-left: 7px;
+}
+.component6 .box-3 p {
+  padding-left: 11px;
+}
+
+.component6 .box:hover {
+  background-color: var(--light-grey-color);
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+
+@media only screen and (max-width: 1280px) {
+  .component6 {
+    height: unset;
+    padding: 60px;
+  }
+  .component6 h5,
+  .component6 .inner-1 p {
+    padding-left: unset;
+  }
+
+  .component6 .box {
+    padding-left: unset;
+    height: unset;
+  }
+  .component6 .box img {
     position: absolute;
-}
-
-.ourservices1{
-    background-color: transparent;
-    height: 50px;
-    letter-spacing: 0.00px;
-    line-height: 20px;
+    top: 15.5%;
+    left: 46.5%;
+  }
+  .component6 .box img {
     position: absolute;
-    right: calc(49.61% - 99px);
-    text-align: center;
-    top: 50px;
-    white-space: nowrap;
-    width: 200px;
-    font-size: 36px;
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    color: #2C3E50;
-}
-.ourservices2{
-    background-color: transparent;
-    top: 100px;
-    height: 84px;
-    left: 0px;
-    letter-spacing: 0.00px;
-    line-height: 24px;
-    position: absolute;
-    text-align: center;
-    width: calc(100.00% + 2px);
-    color: #A1B1BC;
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.iconn1{
-    background-color: transparent;
-    bottom: 0px;
-    height: 381px;
-    left: 0px;
-    position: absolute;
-    width: 480px;
-}
-
-.iconrectangle1{
-    background-color: white;
-    height: calc(100.00% - 81px);
-    left: 0px;
-    position: absolute;
-    top: 0px;
-    width: 100%;
-}
-
-.natura{
-    background-color: transparent;
-    height: 57px;
-    position: absolute;
-    right: calc(50.00% - 20px);
-    top: 47px;
-    width: 40px;
-}
-
-.natura1{
-    background-color: transparent;
-    height: 100%;
-    left: 0px;
-    position: relative;
-    top: 90px;
-    width: 100%;
-    
-}
-
-.natura1 img{
-    width: 40px;
-    height: 57px;
-}
-
-.graphicdes{
-    background-color: transparent;
-    height: 26px;
-    letter-spacing: 0.00px;
-    line-height: 24px;
-    position: absolute;
-    right: calc(49.59% - 64px);
-    text-align: center;
-    top: 95px;
-    white-space: nowrap;
-    width: 130px;
-    font-size: 18px;
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-}
-
-.graphicdes1{
-    background-color: transparent;
-    height: 195.08px;
-    width:339.58px ;
-    margin-top: 70px;
-    letter-spacing: 0.00px;
-    line-height: 24px;
-    text-align: center;
-    margin-left: -151px;
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    font-size: 14px;
-     color:#A1B1BC ;
-}
-
-
-.iconn2{
-    background-color: transparent;
-    bottom: 0px;
-    height: 381px;
-    left: 481px;
-    position: absolute;
-    width: 480px;
-}
-
-.iconn2 img{
+    top: 15.5%;
     left: 50%;
-    top: 50%;
-    width: 116px;
-    height: 81px;
-
+    transform: translateX(-50%);
+  }
+  .component6 .box-4 h6 {
+    padding-left: unset;
+  }
+  .component6 .box {
+    padding: 146px 10px 8px;
+  }
 }
 
+@media only screen and (max-width: 1024px) {
+  .component6 .inner-2 {
+    flex-wrap: wrap;
+  }
+  .component6 .inner-2 .box {
+    flex-basis: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .component6 .inner-2 {
+    flex-direction: column;
+  }
+  .component6 h5 {
+    line-height: unset;
+  }
+  .component6 {
+    padding: 59px 27px;
+  }
+}

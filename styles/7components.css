@@ -1,0 +1,220 @@
+.component7 {
+    height: 810px;
+    text-align: center;
+    padding-top: 103px;
+    box-shadow: inset 0 -3px 0 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .component7 .inner-3 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    position: relative;
+    left: 7px;
+    height: 400px;
+  }
+  .component7 .inner-1 {
+    padding-left: 16px;
+    margin-bottom: 46px;
+  }
+  .component7 h5 {
+    margin-bottom: 24px;
+  }
+  .component7 .inner-2 {
+    justify-content: space-between;
+    height: 51px;
+    margin-bottom: 53px;
+    padding-left: 9px;
+    position: relative;
+  }
+  
+  .component7 .boxes {
+    width: 1170.24px;
+    margin: 0 auto;
+  }
+  .component7 .inner-2 {
+    border-top: 1px solid var(--light-grey-color);
+    border-bottom: 1px solid var(--light-grey-color);
+    align-items: center;
+  }
+  .component7 li {
+    margin-right: 33px;
+    transition: all 0.2s ease-out;
+  }
+  
+  .component7 ul li:first-child,
+  .component7 ul li:nth-child(2),
+  .component7 li:nth-child(3),
+  .component7 li:nth-child(4),
+  .component7 li:nth-child(5) {
+    margin-right: 32px;
+  }
+  .component7 li:hover {
+    color: var(--main-green-color);
+  }
+  .component7 button {
+    width: 122px;
+    height: 36px;
+    border-radius: 5px;
+    position: relative;
+    left: 9px;
+    top: 1px;
+  }
+  .component7 .box {
+    transition: all 0.2s ease-out;
+    position: relative;
+  }
+  .component7 .inner-3 .inner-content {
+    left: 0;
+    bottom: 0;
+    background-color: #fff;
+    width: 100%;
+    position: absolute;
+    height: 35%;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+  }
+  .component7 .inner-content p {
+    text-transform: uppercase;
+  }
+  .triangle {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 10px;
+    border-width: 0 12px 12px 12px;
+    border-color: transparent transparent #fff transparent;
+    border-style: solid;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+  }
+  .component7 i,
+  .component7 img {
+    font-size: 24px;
+    position: absolute;
+    top: 16%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.2s ease-out;
+  }
+  
+  .component7 .box:hover {
+    background-color: var(--dark-grey-secondary);
+    cursor: pointer;
+  }
+  
+  .component7 .box:hover .inner-content,
+  .component7 .box:hover .triangle,
+  .component7 .box:hover img {
+    opacity: 100%;
+  }
+  .component7 .inner-2::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: #ecf0f1;
+    bottom: -5px;
+  }
+  
+  @media only screen and (max-width: 1280px) {
+    .component7 {
+      height: unset;
+      padding: 103px 0 60px;
+    }
+    .component7 .boxes {
+      width: unset;
+    }
+    .component7 .inner-2 {
+      justify-content: space-around;
+    }
+  
+    .component7 .inner-3 {
+      grid-template-columns: repeat(2, 1fr);
+      width: 600px;
+      height: 800px;
+      margin: 0 auto;
+    }
+    .component7 .box:nth-child(3),
+    .component7 .box:nth-child(6) {
+      background-color: var(--medium-grey-color);
+    }
+    .component7 .box:nth-child(4),
+    .component7 .box:nth-child(5) {
+      background-color: var(--light-grey-color);
+    }
+    .component7 .box:hover {
+      background-color: var(--dark-grey-secondary);
+      cursor: pointer;
+    }
+    .component7 .inner-2 {
+      padding-left: unset;
+    }
+  
+    @media only screen and (max-width: 1024px) {
+      .component7 ul li,
+      .component7 ul li:first-child,
+      .component7 ul li:nth-child(2),
+      .component7 li:nth-child(3),
+      .component7 li:nth-child(4),
+      .component7 li:nth-child(5) {
+        margin-right: 18px;
+        font-size: 11px;
+      }
+      .component7 button {
+        font-size: 10px;
+        width: 95px;
+        height: 34px;
+      }
+    }
+  
+    @media only screen and (max-width: 768px) {
+      .component7 {
+        height: unset;
+      }
+      .component7 ul {
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .component7 p {
+        font-size: 12px;
+      }
+      .component7 .inner-1 {
+        padding-left: unset;
+      }
+  
+      .component7 ul li,
+      .component7 ul li:first-child,
+      .component7 ul li:nth-child(2),
+      .component7 li:nth-child(3),
+      .component7 li:nth-child(4),
+      .component7 li:nth-child(5) {
+        margin-right: 8px;
+      
+      }
+      .component7 button {
+        font-size: 9px;
+        width: 62px;
+        height: 31px;
+      }
+      .component7 ul li {
+        flex-basis: 17%;
+        font-size: 10px;
+    }
+      .component7 .inner-2 {
+        height: unset;
+        overflow: hidden;
+        flex-wrap: wrap;
+        gap: 11px;
+        white-space: nowrap;
+      }
+      .component7 .inner-3 {
+        width: 90%;
+        height: 543px;
+       
+    }
+  }
+}

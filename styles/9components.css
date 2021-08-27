@@ -1,0 +1,126 @@
+.component9 {
+  height: 881px;
+  background-color: var(--dark-grey-color);
+  color: #fff;
+  text-align: center;
+  padding-top: 104px;
+}
+.component9 .g-box {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.box-like {
+  background-color: var(--medium-grey-color);
+  height: 649px;
+  width: 446px;
+  border-top-right-radius: 36px;
+  border-top-left-radius: 36px;
+}
+
+.component9 .inner-1 {
+  padding-left: 17px;
+  margin-bottom: 42px;
+}
+
+.component9 h5 {
+  margin-bottom: 18px;
+}
+.component9 .box > div {
+  width: 300px;
+  height: 141.15px;
+  margin-bottom: 25px;
+}
+
+.component9 .box-upper {
+  margin-bottom: 9px;
+}
+.component9 .box-1 .box-upper {
+  justify-content: flex-end;
+  gap: 14.3px;
+}
+.component9 .box-3 .box-upper {
+  justify-content: flex-start;
+  gap: 10.7px;
+}
+.component9 .box-1 {
+  text-align: end;
+}
+
+.component9 .box-3 {
+  text-align: start;
+}
+.component9 .inner-2 {
+  margin-left: 16px;
+  gap: 62px;
+}
+.component9 .box-1,
+.component9 .box-3 {
+  margin-top: 27px;
+}
+
+@media only screen and (max-width: 1280px) {
+  .component9 {
+    padding-top: 59px;
+    height: unset;
+  }
+  .component9 .inner-2 {
+    margin-left: unset;
+    gap: 24px;
+  }
+  .component9 .box-like {
+    order: 1;
+  }
+  .component9 h5 {
+    font-size: 25px;
+  }
+  .component9 p {
+    font-size: 13px;
+  }
+  .component9 .g-box {
+    width: 37px;
+    height: 37px;
+  }
+  .component9 .box-1,
+  .component9 .box-3 {
+    margin-top: unset;
+  }
+  .component9 .inner-1 {
+    padding-left: unset;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .component9 .box-like {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .component9 .inner-2 {
+    flex-wrap: wrap;
+  }
+  .component9 .box-upper > div {
+    order: -1;
+  }
+  .component9 .box-1 .box-upper {
+    justify-content: flex-start;
+  }
+  .component9 .box-1 {
+    text-align: start;
+  }
+  .component9 h5 {
+    line-height: unset;
+    font-size: 20px;
+  }
+  .component9 p {
+    font-size: 10px;
+  }
+  .component9 h6 {
+    font-size: 16px;
+  }
+  .component9 .g-box {
+    width: 32px;
+    height: 32px;
+  }
+}
